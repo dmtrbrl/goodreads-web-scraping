@@ -1,0 +1,17 @@
+{
+  "name": "goodreads-web-scraping",
+  "version": "1.0.0",
+  "description": "Scraping 'Goodreads Choice Awards 2018' data using Node.js and Puppeteer",
+  "main": "index.js",
+  "keywords": [
+    "web scraping",
+    "puppeteer",
+    "node"
+  ],
+  "author": "dmtrbrl <dmytro.barylo@gmail.com> (https://github.com/dmtrbrl)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "puppeteer": "^1.12.2"
+  }
+}
